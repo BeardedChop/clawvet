@@ -18,7 +18,7 @@ bash tools/claw-vet.sh https://raw.githubusercontent.com/user/repo/main/SKILL.md
 
 ```
 ✅ PASS   — No issues detected. Safe to load.
-⚠️  WARN   — Suspicious content found. Review before loading.
+⚠️ WARN   — Suspicious content found. Review before loading.
 ⛔ FAIL   — Critical issues detected. Do NOT load this SKILL.md.
 ```
 
